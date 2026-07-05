@@ -17,8 +17,8 @@ require __DIR__ . '/../partials/navbar.php';
 
 <div class="page-header">
   <div>
-    <h1>Institutional Dashboard</h1>
-    <p>Overview of key university metrics for the current semester.</p>
+    <h1>Institutional Dashboard 01</h1>
+    <p>Overview of key university metrics for the current Semester.</p>
   </div>
   <div class="actions">
     <select class="form-control" style="width:auto"><option>Fall Semester 2024</option><option>Spring 2025</option></select>
